@@ -52,19 +52,6 @@ public class ArchiveTransformeur {
 				break;
 			}
 		}
-		/*		
-		try
-		{
-			OutputStream outputStream = new FileOutputStream ("g:\\a.txt"); 
-			baos.writeTo(outputStream);
-			outputStream.close();
-		}
-		catch(Exception e)
-		{
-			
-		}
-		*/
-		//readStringlinebyLine(this.ArchiveContent);
 		
 		this.ArchiveHeader = new String(bytes, 0, BodyOffset, "UTF-8");
 		
@@ -96,7 +83,6 @@ public class ArchiveTransformeur {
                 }
             };
                 
-			@SuppressWarnings("resource")
 			ChunkedInputStream chunkedInputStream = new ChunkedInputStream(sessionInputBuffer);
 			
 			byte[] buffer = new byte[65536];
@@ -114,8 +100,16 @@ public class ArchiveTransformeur {
 			{
 			}
 			
+			try {
+				chunkedInputStream.close();
+			} catch (IOException e1) {}
+			
 			bytes = baos0.toByteArray();
 			BodyOffset = 0;
+			
+			try {
+				baos0.close();
+			} catch (IOException e) {}
 		}
 		/*
 		 * Fin Modif Clem
@@ -125,6 +119,7 @@ public class ArchiveTransformeur {
 		{
 			if (this.ContentEncoding.compareToIgnoreCase("gzip") == 0)
 			{
+				ByteArrayOutputStream baos0 = null;
 				try 
 				{
 					for(int pos=BodyOffset; pos < bytes.length - 3; pos++)
@@ -136,7 +131,7 @@ public class ArchiveTransformeur {
 						}
 					}
 					
-					ByteArrayOutputStream baos0 = new ByteArrayOutputStream();
+					baos0 = new ByteArrayOutputStream();
 					
 					GZIPInputStream gzipInputStream = new GZIPInputStream(new ByteArrayInputStream(bytes, BodyOffset, bytes.length - BodyOffset));
 					
@@ -166,7 +161,7 @@ public class ArchiveTransformeur {
 					this.ArchiveBody = baos0.toString(Charset);
 					
 					gzipInputStream.close();
-					baos0.close();
+					
 					
 					BodyOffset = 0;
 				}
@@ -174,18 +169,31 @@ public class ArchiveTransformeur {
 				{
 					e.printStackTrace();
 				}
+				finally {
+					if( baos0 != null )
+						try {
+							baos0.close();
+						} catch (IOException e) {}
+				}
 			}
 			else if (this.ContentEncoding.compareToIgnoreCase("deflate") == 0)
 			{
+				OutputStream outputStream = null;
 				try
 				{
-					OutputStream outputStream = new FileOutputStream ("c:\\www\\t.gz"); 
+					outputStream = new FileOutputStream ("c:\\www\\t.gz"); 
 					outputStream.write(bytes, BodyOffset, bytes.length - BodyOffset);
 					outputStream.close();
 				}
 				catch(Exception e)
 				{
 					e.printStackTrace();
+				}
+				finally {
+					if(outputStream != null)
+						try {
+							outputStream.close();
+						} catch (IOException e) {}
 				}
 				
 				for(int pos=BodyOffset; pos < bytes.length - 3; pos++)
@@ -197,11 +205,13 @@ public class ArchiveTransformeur {
 					}
 				}
 
+				ByteArrayOutputStream baos0 = null;
+				InflaterInputStream gzipInputStream = null;
 				try 
 				{					
-					ByteArrayOutputStream baos0 = new ByteArrayOutputStream();
+					baos0 = new ByteArrayOutputStream();
 										
-					InflaterInputStream gzipInputStream = new InflaterInputStream(new ByteArrayInputStream(bytes, BodyOffset, bytes.length - BodyOffset), new Inflater());
+					gzipInputStream = new InflaterInputStream(new ByteArrayInputStream(bytes, BodyOffset, bytes.length - BodyOffset), new Inflater());
 					
 					byte[] buffer = new byte[65536];
 					
@@ -222,14 +232,25 @@ public class ArchiveTransformeur {
 							
 					bytes = baos0.toByteArray();
 					
-					gzipInputStream.close();
-					baos0.close();
+					
 					
 					BodyOffset = 0;
 				}
 				catch (IOException e) 
 				{
 					e.printStackTrace();
+				}
+				finally {
+					if(baos0!=null)
+						try {
+							baos0.close();
+						} catch (IOException e) {}
+					
+					if( gzipInputStream != null )
+						try {
+							gzipInputStream.close();
+						} catch (IOException e) {}
+					
 				}
 			}
 		}
@@ -258,41 +279,7 @@ public class ArchiveTransformeur {
 			}
 		}
 		
-/*		String gzipMarker = "\u001F\uFFFD";
-		String htmlTag = "<html";
-		
-				int posGzipMarker = this.ArchiveBody.indexOf(gzipMarker);
-		int posHtmlTag = this.ArchiveBody.indexOf(htmlTag);
-		
-		if (false && posGzipMarker != -1 && posHtmlTag == -1)
-		{
-			try 
-			{
-				ByteArrayOutputStream baos0 = new ByteArrayOutputStream();
-				
-				GZIPInputStream gzipInputStream = new GZIPInputStream(new ByteArrayInputStream(bytes, BodyOffset, bytes.length - BodyOffset));
-				byte[] buffer = new byte[65536];
-				
-				int length = 0;
-				
-				while((length = gzipInputStream.read(buffer)) != -1)
-				{
-					baos0.write(buffer, 0, length);
-				}
-				
-				byte[] bytes0 = baos0.toByteArray();
-				
-				this.ArchiveBody = new String(bytes0, 0, bytes0.length, Charset);
-				
-				gzipInputStream.close();
-				baos0.close();
-			}
-			catch (IOException e) 
-			{
-				e.printStackTrace();
-			}
-		}
-	*/	
+
 		
 		if (Charset != null && Charset.compareToIgnoreCase("ISO-8859-1") == 0)
 		{
@@ -305,16 +292,12 @@ public class ArchiveTransformeur {
 				}
 			}
 		}
-		
-		// this.ArchiveHeaderParser();
 
-		// System.out.println(test);
 	}
 
 
 	private boolean isChunkedTransfert(String archiveHeader, ByteArrayOutputStream baos, int bodyOffset)
 	{
-		//return archiveHeader.toLowerCase().indexOf("chunked") != -1;
 		
 		byte[] bytes = baos.toByteArray();
 		
@@ -532,8 +515,12 @@ public class ArchiveTransformeur {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		//this.ArchiveBody = Jsoup.clean(this.ArchiveBody , Whitelist.basic());
-
+		finally {
+			try {
+				reader.close();
+			} catch (IOException e) {}
+		}
+		
 		
 		return true;
 	}

@@ -7,6 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 import org.df4ze.course2.dao.DAO;
+import org.df4ze.course2.dao.bean.Arrivee;
 import org.df4ze.course2.dao.bean.Cote;
 import org.df4ze.course2.dao.bean.Course;
 import org.df4ze.course2.dao.bean.CourseComplete;
@@ -33,6 +34,7 @@ public abstract class DAOFactory {
 	public abstract DAO<Rapport> getRapportDAO();
 	public abstract DAO<Cote> getCoteDAO();
 	public abstract DAO<Partant> getPartantDAO();
+	public abstract DAO<Arrivee> getArriveeDAO();
 	public abstract DAO<CourseComplete> getCourseCompleteDAO();
 	
 	public static DAOFactory getDAOFactory(int whichFactory) {

@@ -39,6 +39,10 @@ public class Parser {
 		if( beansListRapport != null )
 			beansList.addAll( beansListRapport );
 		
+		BeansList beansListArrive = parse_arrivee();
+		if( beansListArrive != null )
+			beansList.addAll( beansListArrive );
+		
 		BeansList beansListPartant = parse_partant();
 		if( beansListPartant != null )
 			beansList.addAll( beansListPartant );
@@ -256,7 +260,7 @@ public class Parser {
 		BeansList listeRapports = null;
 		if( url.indexOf("arrivee-et-rapports") != -1 && longCourse != null){
 			if( Debug.isEnable() ){
-				System.out.println("===================================\nArriv�e");
+				System.out.println("===================================\nRapports");
 			}
 			
 			if( url.indexOf("2015-08") != -1 )
@@ -362,10 +366,29 @@ public class Parser {
 			
 			// nouveau tableau
 			}
+			
 		}
 		
 		return listeRapports;
 	}
+	
+	private BeansList parse_arrivee(){
+		Long longCourse = parse_numCourse();
+		
+		BeansList listeArrivees = null;
+		if( url.indexOf("arrivee-et-rapports") != -1 && longCourse != null){
+			Elements nbTableaux = xPathTool.getElements(doc, "/table[@id='arrivees']/tbody table");
+			
+			Elements lignes = null;
+			if( nbTableaux != null && nbTableaux.size() > 0 )
+				lignes = xPathTool.getElements(doc, "/table[@id='arrivees']/tbody/tr[0]/td[1]/table/tbody/tr");	
+		}
+		
+		return listeArrivees;
+	}
+	
+	
+	
 	
 	private BeansList parse_cote(){
 		Long longCourse = parse_numCourse();

@@ -8,6 +8,7 @@ import java.util.ArrayList;
 
 import org.df4ze.course2.dao.DAO;
 import org.df4ze.course2.dao.DAOException;
+import org.df4ze.course2.dao.bean.Arrivee;
 import org.df4ze.course2.dao.bean.BeansList;
 import org.df4ze.course2.dao.bean.Cote;
 import org.df4ze.course2.dao.bean.Course;
@@ -198,6 +199,11 @@ public class MySqlDAOFactory extends DAOFactory {
 	public DAO<Partant> getPartantDAO() {
 		return new MySqlDAOPartant();
 	}
+	
+	@Override
+	public DAO<Arrivee> getArriveeDAO() {
+		return new MySqlDAOArrivee();
+	}
 
 	@Override
 	public DAO<CourseComplete> getCourseCompleteDAO() {
@@ -215,6 +221,7 @@ public class MySqlDAOFactory extends DAOFactory {
 		ArrayList<Course> coursesList = new ArrayList<Course>();
 		ArrayList<Partant> partantsList = new ArrayList<Partant>();
 		ArrayList<Rapport> rapportsList = new ArrayList<Rapport>();
+		ArrayList<Arrivee> arriveesList = new ArrayList<Arrivee>();
 		ArrayList<CourseComplete> courseCompletesList = new ArrayList<CourseComplete>();
 		
 		
@@ -239,6 +246,9 @@ public class MySqlDAOFactory extends DAOFactory {
 				rapportsList.add((Rapport)bean);
 			else if( bean instanceof CourseComplete )
 				courseCompletesList.add((CourseComplete)bean);
+			else if( bean instanceof Arrivee )
+				arriveesList.add((Arrivee)bean);
+			
 		}
 		
 		
@@ -302,6 +312,19 @@ public class MySqlDAOFactory extends DAOFactory {
 			}
 			
 		}
+		if( arriveesList.size() != 0 ){
+			DAO<Arrivee> DAOArrivee = getArriveeDAO();
+			
+			try {
+				DAOArrivee.create( arriveesList );
+			} catch (DAOException e) {
+				System.err.println("Erreur d'insertion dans ARRIVEE : "+e.getMessage());
+				Logger.write("ARRIVEE : "+ e.getMessage() + " --> " +e.getRequete());
+			}
+			
+		}
+		
+		
 		
 	}
 

@@ -9,6 +9,7 @@ public interface DAO<T> {
 	public static final String t_cote = "cote";
 	public static final String t_partant = "partant";
 	public static final String t_coursecomplete = "coursecomplete";
+	public static final String t_arrivee = "arrivee";
 	
 	
 	/**

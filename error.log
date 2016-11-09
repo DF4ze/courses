@@ -30,3 +30,281 @@ Starting...
 2016/11/09 10:10:45	
 
 Reading WEB-20151009111412619-00000-16252~DF4ze~8461.warc.gz
+2016/11/09 10:22:18	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/2013-04a2015-04/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/09 10:22:18	
+
+Reading WEB-20151009111412619-00000-16252~DF4ze~8461.warc.gz
+2016/11/09 10:22:41	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:22:42	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:22:42	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:22:42	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:22:43	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:22:43	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:22:44	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:22:44	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:22:44	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:22:46	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:22:46	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:30:40	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/20161106213317/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/09 10:30:40	
+
+Reading WEB-20161106213321884-00000-20539~workShop~8461.warc.gz
+2016/11/09 10:30:53	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:30:54	PARTANT : Unknown column 'gains' in 'field list' --> null
+2016/11/09 10:34:01	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/20161106213317/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/09 10:34:01	
+
+Reading WEB-20161106213321884-00000-20539~workShop~8461.warc.gz
+2016/11/09 10:34:14	RAPPORT : Duplicate entry '774345-2' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:34:14	COTE : Duplicate entry '774411-1' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:34:14	COTE : Duplicate entry '774432-1' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:34:14	COTE : Duplicate entry '774346-1' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:34:17	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:20	RAPPORT : Duplicate entry '774351-5' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:34:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:23	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:24	PARTANT : Incorrect integer value: '' for column 'gains' at row 9 --> null
+2016/11/09 10:34:33	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:34	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:35	PARTANT : Incorrect integer value: '' for column 'gains' at row 10 --> null
+2016/11/09 10:34:36	RAPPORT : Duplicate entry '774699-11' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:34:37	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:37	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:39	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:40	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:40	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:41	PARTANT : Incorrect integer value: '' for column 'gains' at row 10 --> null
+2016/11/09 10:34:42	RAPPORT : Duplicate entry '774629-1' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:34:43	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:43	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:43	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:46	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:47	PARTANT : Incorrect integer value: '' for column 'gains' at row 4 --> null
+2016/11/09 10:34:48	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:48	PARTANT : Incorrect integer value: '' for column 'gains' at row 4 --> null
+2016/11/09 10:34:49	RAPPORT : Duplicate entry '774797-15' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:34:49	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:49	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:50	RAPPORT : Duplicate entry '774816-14' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:34:52	RAPPORT : Duplicate entry '774790-7' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:34:54	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:54	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:55	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:55	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:56	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:56	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:57	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:57	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:57	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:57	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:58	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:58	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:34:59	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:01	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:02	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:06	RAPPORT : Duplicate entry '775099-6' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:35:11	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:17	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:24	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:25	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:25	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:31	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:40	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:43	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:49	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:55	RAPPORT : Duplicate entry '775644-6' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:35:56	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:57	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:58	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:35:59	RAPPORT : Duplicate entry '775829-11' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:02	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:11	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:16	RAPPORT : Duplicate entry '775801-15' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:18	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:18	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:22	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:23	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:23	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:23	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:23	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:25	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:25	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:26	RAPPORT : Duplicate entry '776138-5' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:27	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:27	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:27	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:28	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:28	RAPPORT : Duplicate entry '776111-13' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:28	RAPPORT : Duplicate entry '776159-14' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:28	RAPPORT : Duplicate entry '775800-6' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:28	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:29	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:29	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:29	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:29	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:30	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:30	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:30	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:31	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:32	RAPPORT : Duplicate entry '776184-16' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:32	RAPPORT : Duplicate entry '776148-9' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:32	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:34	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:34	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:34	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:34	RAPPORT : Duplicate entry '776187-9' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:35	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:35	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:35	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:36	RAPPORT : Duplicate entry '776379-2' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:36	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:37	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:38	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:39	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:40	RAPPORT : Duplicate entry '775904-10' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:40	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:40	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:40	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:41	RAPPORT : Duplicate entry '776374-14' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:41	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:42	RAPPORT : Duplicate entry '776150-14' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:42	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:42	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:42	RAPPORT : Duplicate entry '776172-4' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:43	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:44	PARTANT : Incorrect integer value: '' for column 'gains' at row 10 --> null
+2016/11/09 10:36:47	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:47	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:47	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:47	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:48	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:48	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:49	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:49	RAPPORT : Duplicate entry '776295-2' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:49	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:36:52	RAPPORT : Duplicate entry '776469-5' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:36:53	PARTANT : Incorrect integer value: '' for column 'gains' at row 10 --> null
+2016/11/09 10:37:00	RAPPORT : Duplicate entry '776531-6' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:01	RAPPORT : Duplicate entry '776530-6' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:03	RAPPORT : Duplicate entry '776556-11' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:05	RAPPORT : Duplicate entry '776895-3' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:05	PARTANT : Incorrect integer value: '' for column 'gains' at row 10 --> null
+2016/11/09 10:37:06	RAPPORT : Duplicate entry '776867-1' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:07	RAPPORT : Duplicate entry '776897-3' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:09	RAPPORT : Duplicate entry '776868-7' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:10	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:13	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:14	RAPPORT : Duplicate entry '776979-7' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:18	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:19	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:19	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:20	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:22	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:23	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:23	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:24	PARTANT : Incorrect integer value: '' for column 'gains' at row 9 --> null
+2016/11/09 10:37:25	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:26	RAPPORT : Duplicate entry '777293-7' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:26	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:27	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:27	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:28	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:28	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:28	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:28	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:31	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:31	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:31	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:32	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:32	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:32	RAPPORT : Duplicate entry '777303-4' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:33	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:33	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:34	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:34	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:34	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:35	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:35	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:35	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:36	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:36	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:38	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:38	RAPPORT : Duplicate entry '777323-17' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:38	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:40	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:41	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:43	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:43	RAPPORT : Duplicate entry '777402-1' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:44	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:45	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:45	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:45	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:46	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:46	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:46	RAPPORT : Duplicate entry '777410-1' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:46	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:48	RAPPORT : Duplicate entry '777656-5' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:37:48	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:50	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:53	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:37:54	PARTANT : Incorrect integer value: '' for column 'gains' at row 3 --> null
+2016/11/09 10:37:56	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:00	RAPPORT : Duplicate entry '777937-4' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:38:01	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:06	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:09	RAPPORT : Duplicate entry '778245-16' for key 'paire_cheval_numcourse' --> null
+2016/11/09 10:38:14	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:14	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:15	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:15	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:17	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:17	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:17	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:18	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:19	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:19	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:20	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/09 10:38:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null

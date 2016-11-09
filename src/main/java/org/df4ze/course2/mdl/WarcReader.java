@@ -48,32 +48,16 @@ public class WarcReader {
 			System.out.println("Reading " + arcFile.getName());
 			Logger.write("\n\nReading " + arcFile.getName());
 			
-//			ArchiveReader r;
-//			ARCReader r;
-			
 			try {
 				
 				Iterator<ArchiveRecord> archIt = WARCReaderFactory.get(arcFile).iterator();
 				while (archIt.hasNext()) {
 					ArchiveRecord rec = archIt.next();
-				
-				
-//				r = ARCReaderFactory.get(null, new FileInputStream(arcFile), true);
-//				//r = ArchiveReaderFactory.get(arcFile);
-//				r.setDigest(false);				
-				
-//				for (ArchiveRecord rec : r){
 					
 					if (rec != null){
 						ArchiveRecordHeader meta = rec.getHeader();
 						if (meta.getMimetype().trim().indexOf("request") != -1 && meta.getMimetype().trim().startsWith("application/http")) {
-							
-//							String referer="root";
-//							String temp = getReferer(rec);
-//							if( temp != null )
-//								referer = temp;
-//							
-//							URLS.put(meta.getUrl(), referer);
+
 
 						}else if(meta.getMimetype().trim().indexOf("msgtype=response"/*request"*/) != -1 && meta.getMimetype().trim().startsWith("application/http")){
 							indexify(rec);
@@ -117,11 +101,9 @@ public class WarcReader {
 	}
 	
 	protected void indexify( ArchiveRecord rec ){
-		//System.out.println("***************************");
-		
-		//System.out.println(at.ArchiveBody);
+		ByteArrayOutputStream baosRequest = null;
 		try{
-			ByteArrayOutputStream baosRequest = new ByteArrayOutputStream();
+			baosRequest = new ByteArrayOutputStream();
 			rec.dump(baosRequest);
 			ArchiveTransformeur at = new ArchiveTransformeur(baosRequest, null);
 			
@@ -138,6 +120,14 @@ public class WarcReader {
 
 		} catch (IOException e) {
 			System.err.println("Error reading Record : "+e.getMessage());
+			
+		}finally {
+			if (baosRequest != null) {
+				try {
+					baosRequest.close();
+				} catch (IOException e) {
+				}
+			}
 			
 		}
 	}
