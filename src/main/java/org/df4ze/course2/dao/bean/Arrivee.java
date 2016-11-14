@@ -9,6 +9,16 @@ public class Arrivee extends ParentBean {
 	public Integer numChv;
 	public String nomChv;
 	
+	public Arrivee(){
+		super();
+	}
+	
+	public Arrivee(Long courseId, Integer numArrivee, Integer numChv) {
+		super();
+		CourseId = courseId;
+		this.numArrivee = numArrivee;
+		this.numChv = numChv;
+	}
 	
 	public Long getId() {
 		return id;
@@ -43,8 +53,8 @@ public class Arrivee extends ParentBean {
 	public void setNumCheval(Integer numChv) {
 		this.numChv = numChv;
 	}
-	public String getNumCheval() {
-		return nomChv;
+	public Integer getNumCheval() {
+		return numChv;
 	} 
 	
 	

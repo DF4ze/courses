@@ -105,8 +105,8 @@ public class MySqlDAOPartant implements DAO<Partant> {
 				params.put("musique", obj.getMusique());
 			if( obj.getNomCheval() != null )
 				params.put("nom_chv", obj.getNomCheval());
-			if( obj.getGains() != null )
-				params.put("gains", obj.getGains());
+			if( obj.getiGains() != null )
+				params.put("gains", obj.getiGains());
 			
 			Iterator<Entry<String, Object>> i = params.entrySet().iterator();
 			while( i.hasNext() ){
@@ -167,8 +167,8 @@ public class MySqlDAOPartant implements DAO<Partant> {
 				params.put("musique", obj.getMusique());
 			if( obj.getNomCheval() != null )
 				params.put("nom_chv", obj.getNomCheval());
-			if( obj.getGains() != null )
-				params.put("gains", obj.getGains());
+			if( obj.getiGains() != null )
+				params.put("gains", obj.getiGains());
 			
 			//"INSERT INTO " + DAO.t_rapport + " ( course_id, num_chv, cote, enjeux, arrivee, place, gagnant )"+"VALUES( ?, ?, ?, ?, ?, ?, ? )";
 			Iterator<Entry<String, Object>> i = params.entrySet().iterator();
@@ -238,7 +238,10 @@ public class MySqlDAOPartant implements DAO<Partant> {
 				queryValue += "'"+partant.getAgeSexe()+"', ";
 				queryValue += "'"+partant.getMusique()+"', ";
 				queryValue += "'"+partant.getNomCheval().replace("'", "\\'")+"',";
-				queryValue += "'"+partant.getGains()+"' ";
+				if( partant.getiGains() != null )
+					queryValue += "'"+partant.getiGains()+"' ";
+				else
+					queryValue += "null";
 				
 				
 				queryValue += " ) ";
@@ -308,8 +311,8 @@ public class MySqlDAOPartant implements DAO<Partant> {
 				params.put("musique", obj.getMusique());
 			if( obj.getNomCheval() != null )
 				params.put("nom_chv", obj.getNomCheval());
-			if( obj.getGains() != null )
-				params.put("gains", obj.getGains());
+			if( obj.getiGains() != null )
+				params.put("gains", obj.getiGains());
 			
 			Iterator<Entry<String, Object>> i = params.entrySet().iterator();
 			while( i.hasNext() ){
@@ -367,8 +370,8 @@ public class MySqlDAOPartant implements DAO<Partant> {
 			params.put("musique", obj.getMusique());
 		if( obj.getNomCheval() != null )
 			params.put("nom_chv", obj.getNomCheval());
-		if( obj.getGains() != null )
-			params.put("gains", obj.getGains());
+		if( obj.getiGains() != null )
+			params.put("gains", obj.getiGains());
 		
 		Iterator<Entry<String, Object>> i = params.entrySet().iterator();
 		while( i.hasNext() ){

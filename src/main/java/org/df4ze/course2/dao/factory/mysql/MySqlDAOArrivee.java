@@ -113,6 +113,7 @@ public class MySqlDAOArrivee implements DAO<Arrivee> {
 				if( i.hasNext() )
 					query += " AND ";
 			}
+			query += " ORDER BY num_arrivee ASC";
 			
 			
 			Statement st = connect.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_UPDATABLE);

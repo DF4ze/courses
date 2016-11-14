@@ -281,6 +281,7 @@ public class MySqlDAOCourseComplete implements DAO<CourseComplete> {
 				params.put("id", obj.getId());
 			if( obj.getAgeSexChvlPremier() != null )
 				params.put("agesexe_chvl_premier", obj.getAgeSexChvlPremier());
+	
 			if( obj.getAutoStart() != null )
 				params.put("depart", obj.getAutoStart());
 			if( obj.getDateCourse() != null )
@@ -301,6 +302,8 @@ public class MySqlDAOCourseComplete implements DAO<CourseComplete> {
 				params.put("num_chv_premier", obj.getNumeroChvlPremier());
 			if( obj.getNumeroChvlTroisieme() != null )
 				params.put("num_chv_troisieme", obj.getNumeroChvlTroisieme());
+			if( obj.getGainChvlPremier() != null )
+				params.put("gains_chv_premier", obj.getGainChvlPremier());
 			if( obj.getNumeroCourse() != null )
 				params.put("num_course", obj.getNumeroCourse());
 			if( obj.getNumeroDeuxiemeFavori() != null )
@@ -337,6 +340,36 @@ public class MySqlDAOCourseComplete implements DAO<CourseComplete> {
 				params.put("musique_meilleur_gain", obj.getMusiqueMeilleurGains());
 			if( obj.getNumeroMeilleurGains() != null )
 				params.put("numero_meilleur_gain", obj.getNumeroMeilleurGains());
+			if( obj.getP1er() != null )
+				params.put("1er", obj.getP1er());
+			if( obj.getP2eme() != null )
+				params.put("2eme", obj.getP2eme());
+			if( obj.getP3eme() != null )
+				params.put("3eme", obj.getP3eme());
+			if( obj.getP4eme() != null )
+				params.put("4eme", obj.getP4eme());
+			if( obj.getP5eme() != null )
+				params.put("5eme", obj.getP5eme());
+			if( obj.getP6eme() != null )
+				params.put("6eme", obj.getP6eme());
+			if( obj.getP7eme() != null )
+				params.put("7eme", obj.getP7eme());
+			if( obj.getP8eme() != null )
+				params.put("8eme", obj.getP8eme());
+			if( obj.getP9eme() != null )
+				params.put("9eme", obj.getP9eme());
+			if( obj.getP10eme() != null )
+				params.put("10eme", obj.getP10eme());
+			if( obj.getP11eme() != null )
+				params.put("11eme", obj.getP11eme());
+			if( obj.getP12eme() != null )
+				params.put("12eme", obj.getP12eme());
+			if( obj.getP13eme() != null )
+				params.put("13eme", obj.getP13eme());
+			if( obj.getP14eme() != null )
+				params.put("14eme", obj.getP14eme());
+			if( obj.getP15eme() != null )
+				params.put("15eme", obj.getP15eme());
 			
 			
 			Iterator<Entry<String, Object>> i = params.entrySet().iterator();

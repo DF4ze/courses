@@ -3,6 +3,7 @@ package org.df4ze.course2.mdl;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import org.df4ze.course2.dao.bean.Arrivee;
 import org.df4ze.course2.dao.bean.BeansList;
 import org.df4ze.course2.dao.bean.Cote;
 import org.df4ze.course2.dao.bean.Course;
@@ -183,7 +184,7 @@ public class Parser {
 			if( Debug.isEnable() ){
 				System.out.println("infoCourse : "+txt);
 			}
-			p = Pattern.compile(".*(Mont�|Steeple-chase|Attel�|Plat).*");
+			p = Pattern.compile(".*(Monté|Steeple-chase|Attelé|Plat).*");
 			m = p.matcher(txt);
 			b = m.matches();
 			if( b ){
@@ -196,7 +197,7 @@ public class Parser {
 			
 			
 			// somme des enjeux
-			p = Pattern.compile(".*-.(([0-9]+.)*[0-9]{3})�.*");
+			p = Pattern.compile(".*-.(([0-9]+.)*[0-9]{3})€.*");
 			m = p.matcher(txt);
 			b = m.matches();
 			if( b ){
@@ -262,10 +263,7 @@ public class Parser {
 			if( Debug.isEnable() ){
 				System.out.println("===================================\nRapports");
 			}
-			
-			if( url.indexOf("2015-08") != -1 )
-				System.out.println("Mois de novembre");
-				
+							
 			Elements nbTableaux = xPathTool.getElements(doc, "/table[@id='lesSolos']/tbody table");
 			boolean oldStyle = false;
 			if( nbTableaux != null && nbTableaux.size() == 3)
@@ -316,7 +314,7 @@ public class Parser {
 								txt = txt.replace("<b>", "");
 								txt = txt.replace("</b>", "");
 								txt = txt.replace(" ", "");
-								txt = txt.replace("�", "");
+								txt = txt.replace("€", "");
 								txt = txt.replaceAll("[^\\d\\.\\,\\-]", "");
 								
 								
@@ -359,7 +357,9 @@ public class Parser {
 						}
 					}
 					}catch( Exception e  ){ // pour les Parses Exceptions
-						//System.exit(0);
+						if( Debug.isEnable() ){
+							System.err.println("Erreur RAPPORT : "+e.getMessage());
+						}
 					}
 				}// for lignes
 			
@@ -377,11 +377,50 @@ public class Parser {
 		
 		BeansList listeArrivees = null;
 		if( url.indexOf("arrivee-et-rapports") != -1 && longCourse != null){
-			Elements nbTableaux = xPathTool.getElements(doc, "/table[@id='arrivees']/tbody table");
+			Elements nbTableaux = xPathTool.getElements(doc, "/table[@id='arrivees']/tbody");
 			
 			Elements lignes = null;
 			if( nbTableaux != null && nbTableaux.size() > 0 )
-				lignes = xPathTool.getElements(doc, "/table[@id='arrivees']/tbody/tr[0]/td[1]/table/tbody/tr");	
+				lignes = xPathTool.getElements(doc, "/table[@id='arrivees']/tbody/tr");	
+			
+			if( lignes != null ){
+			for( int i=1; i< lignes.size(); i++ ){
+				Element uneLigne = lignes.get(i);
+				Elements cellules = uneLigne.select("td");
+				
+				Integer numCheval = null;
+				Integer placeCheval = null;
+				try{
+					if( cellules!=null && cellules.size() > 0 ){
+						for( int j=0; j < cellules.size(); j++ ){
+							Element uneCellule = cellules.get(j);
+							
+							if( j == 0 ){
+								String content = uneCellule.text();
+								placeCheval = Integer.parseInt(content);
+							}else if( j==1 ){
+								String content = uneCellule.text();
+								
+								numCheval = Integer.parseInt(content);
+							}else 
+								break;
+						}
+						
+						if( placeCheval != null && numCheval != null){
+							if( listeArrivees == null )
+								listeArrivees = new BeansList();
+							listeArrivees.add(new Arrivee(longCourse, placeCheval, numCheval));
+						}
+					}
+				}catch(Exception e){
+					if( Debug.isEnable() ){
+						System.err.println(e);
+					}
+				}
+			}
+
+			}
+
 		}
 		
 		return listeArrivees;
@@ -434,7 +473,7 @@ public class Parser {
 								}
 							}catch( Exception e ){
 								if( Debug.isEnable() ){
-									System.out.println("**************************************************Erreur sur une ligne 'cote' : "+e.getMessage());
+									System.err.println("Erreur sur une ligne 'cote' : "+e.getMessage());
 								}
 							}
 								
@@ -534,7 +573,7 @@ public class Parser {
 								}
 							}catch( Exception e ){
 								if( Debug.isEnable() ){
-									System.out.println("**************************************************Erreur sur une ligne 'Partant' : "+e.getMessage());
+									System.err.println("Erreur sur une ligne 'Partant' : "+e.getMessage());
 								}
 							}
 								
@@ -543,7 +582,7 @@ public class Parser {
 						if( Debug.isEnable() ){
 							System.out.println("Cvl : "+nom+" Num : "+numCheval+" ageSexe : "+ageSexe+" musique : "+musique+" musique : "+musique+" gains : "+gains);
 						}
-						if( numCheval != null && ageSexe != null && musique != null  && gains != null ){
+						if( numCheval != null ){
 							//DAO<Rapport> DAORapport = DAOFactory.getDAOFactory(DAOFactory.MYSQL).getRapportDAO();
 							if( partantsCourse == null )
 								partantsCourse = new BeansList();

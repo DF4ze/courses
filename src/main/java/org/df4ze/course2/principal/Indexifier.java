@@ -95,7 +95,7 @@ public class Indexifier {
             	}
             }
    		});	
-   		
+   		t.setDaemon(true);
    		t.start();
    		
    		

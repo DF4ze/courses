@@ -30,8 +30,24 @@ public class CourseComplete extends ParentBean{
 	private String 		autoStart;
 	private String 		musiquePremier;
 	private String 		nomChvlPremier;
+	private Integer		gainChvlPremier;
 	private String 		musiqueMeilleurGains;
 	private Integer		numeroMeilleurGains;
+	private Integer		p1er;
+	private Integer		p2eme;
+	private Integer		p3eme;
+	private Integer		p4eme;
+	private Integer		p5eme;
+	private Integer		p6eme;
+	private Integer		p7eme;
+	private Integer		p8eme;
+	private Integer		p9eme;
+	private Integer		p10eme;
+	private Integer		p11eme;
+	private Integer		p12eme;
+	private Integer		p13eme;
+	private Integer		p14eme;
+	private Integer		p15eme;
 	
 	public CourseComplete() {
 		// TODO Auto-generated constructor stub
@@ -276,6 +292,134 @@ public class CourseComplete extends ParentBean{
 
 	public void setNumeroMeilleurGains(int numeroMeilleurGains) {
 		this.numeroMeilleurGains = numeroMeilleurGains;
+	}
+
+	public Integer getP1er() {
+		return p1er;
+	}
+
+	public void setP1er(Integer p1er) {
+		this.p1er = p1er;
+	}
+
+	public Integer getP2eme() {
+		return p2eme;
+	}
+
+	public void setP2eme(Integer p2eme) {
+		this.p2eme = p2eme;
+	}
+
+	public Integer getP3eme() {
+		return p3eme;
+	}
+
+	public void setP3eme(Integer p3eme) {
+		this.p3eme = p3eme;
+	}
+
+	public Integer getP4eme() {
+		return p4eme;
+	}
+
+	public void setP4eme(Integer p4eme) {
+		this.p4eme = p4eme;
+	}
+
+	public Integer getP5eme() {
+		return p5eme;
+	}
+
+	public void setP5eme(Integer p5eme) {
+		this.p5eme = p5eme;
+	}
+
+	public Integer getP6eme() {
+		return p6eme;
+	}
+
+	public void setP6eme(Integer p6eme) {
+		this.p6eme = p6eme;
+	}
+
+	public Integer getP7eme() {
+		return p7eme;
+	}
+
+	public void setP7eme(Integer p7eme) {
+		this.p7eme = p7eme;
+	}
+
+	public Integer getP8eme() {
+		return p8eme;
+	}
+
+	public void setP8eme(Integer p8eme) {
+		this.p8eme = p8eme;
+	}
+
+	public Integer getP9eme() {
+		return p9eme;
+	}
+
+	public void setP9eme(Integer p9eme) {
+		this.p9eme = p9eme;
+	}
+
+	public Integer getP10eme() {
+		return p10eme;
+	}
+
+	public void setP10eme(Integer p10eme) {
+		this.p10eme = p10eme;
+	}
+
+	public Integer getP11eme() {
+		return p11eme;
+	}
+
+	public void setP11eme(Integer p11eme) {
+		this.p11eme = p11eme;
+	}
+
+	public Integer getP12eme() {
+		return p12eme;
+	}
+
+	public void setP12eme(Integer p12eme) {
+		this.p12eme = p12eme;
+	}
+
+	public Integer getP13eme() {
+		return p13eme;
+	}
+
+	public void setP13eme(Integer p13eme) {
+		this.p13eme = p13eme;
+	}
+
+	public Integer getP14eme() {
+		return p14eme;
+	}
+
+	public void setP14eme(Integer p14eme) {
+		this.p14eme = p14eme;
+	}
+
+	public Integer getP15eme() {
+		return p15eme;
+	}
+
+	public void setP15eme(Integer p15eme) {
+		this.p15eme = p15eme;
+	}
+
+	public Integer getGainChvlPremier() {
+		return gainChvlPremier;
+	}
+
+	public void setGainChvlPremier(Integer integer) {
+		this.gainChvlPremier = integer;
 	}
 
 }

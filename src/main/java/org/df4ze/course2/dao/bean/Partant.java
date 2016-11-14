@@ -77,20 +77,22 @@ public class Partant extends ParentBean implements Cloneable{
 	}
 
 
-	public String getGains() {
-		return gains;
-	}
+
 
 
 	public void setGains(String legains) {
 		this.gains = legains;
 		
-		gains = gains.replace(" ", "");
 		try{
-			this.iGains = Integer.parseInt(gains);
+			if( gains != null ){
+				gains = gains.replace(" ", "");
+	
+				this.iGains = Integer.parseInt(gains);
+			}
 		}catch( Exception e ){
 			;
 		}
+
 	}
 
 

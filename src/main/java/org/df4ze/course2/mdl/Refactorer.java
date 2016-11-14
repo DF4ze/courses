@@ -1,9 +1,13 @@
 package org.df4ze.course2.mdl;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 import org.df4ze.course2.dao.DAO;
 import org.df4ze.course2.dao.DAOException;
+import org.df4ze.course2.dao.bean.Arrivee;
 import org.df4ze.course2.dao.bean.Cote;
 import org.df4ze.course2.dao.bean.Course;
 import org.df4ze.course2.dao.bean.CourseComplete;
@@ -30,6 +34,7 @@ public class Refactorer {
 		DAO<Cote> DAOCote = DAOFactory.getDAOFactory().getCoteDAO();
 		DAO<Partant> DAOPartant = DAOFactory.getDAOFactory().getPartantDAO();
 		DAO<Rapport> DAORapport = DAOFactory.getDAOFactory().getRapportDAO();
+		DAO<Arrivee> DAOArrivee = DAOFactory.getDAOFactory().getArriveeDAO();
 		DAO<CourseComplete> DAOcc = DAOFactory.getDAOFactory().getCourseCompleteDAO();
 		
 		ArrayList<Course> coursesList = null;
@@ -42,7 +47,7 @@ public class Refactorer {
 			coursesList = ((MySqlDAOCourse)DAOCourse).findAllFrom( from );
 			
 		} catch (DAOException e) {
-			String texte = "Impossible de r�cup�rer les �l�ments des courses : "+e.getMessage()+"\nL'application va s'arreter.";
+			String texte = "Impossible de recuperer les elements des courses : "+e.getMessage()+"\nL'application va s'arreter.";
 			System.err.println(texte);
 			Logger.write(texte);
 			System.exit(0);
@@ -96,7 +101,7 @@ public class Refactorer {
 				
 				rapportsList = null;
 			} catch (DAOException e) {
-				String texte = "Impossible de r�cup�rer les �l�ments de RAPPORT pour la course "+course.getId()+" : "+e.getMessage();
+				String texte = "Impossible de recuperer les elements de RAPPORT pour la course "+course.getId()+" : "+e.getMessage();
 				System.err.println(texte);
 				Logger.write(texte);
 				continue;
@@ -126,7 +131,7 @@ public class Refactorer {
 				
 				cc.setNombrePartant(cotesList.size());
 				
-				// On r�cup�re les 3 favoris : cote < 5
+				// On recupere les 3 favoris : cote < 5
 				// et les 3 meilleurs pourcentage
 				int nbCoteInf5 = 0;
 				for( Cote uneCote : cotesList ){
@@ -254,13 +259,49 @@ public class Refactorer {
 				
 				cotesList = null;
 			} catch (DAOException e) {
-				String texte = "Impossible de r�cup�rer les �l�ments de COTE pour la course "+course.getId()+" : "+e.getMessage();
+				String texte = "Impossible de recuperer les elements de COTE pour la course "+course.getId()+" : "+e.getMessage();
 				System.err.println(texte);
 				Logger.write(texte);
 				continue;
 			}
 			
 			
+			
+			///////////////////////////
+			// Arrivees
+			Arrivee arrivee = new Arrivee(course.getId(), null, null);
+			try {
+				List<Arrivee> arrivees = DAOArrivee.findByCriteria(arrivee);
+				
+				Map<Integer, Integer> resultats = getNumFromPlace(arrivees);
+				
+				try{
+					cc.setP1er(resultats.get(1));
+					cc.setP2eme(resultats.get(2));
+					cc.setP3eme(resultats.get(3));
+					cc.setP4eme(resultats.get(4));
+					cc.setP5eme(resultats.get(5));
+					cc.setP6eme(resultats.get(6));
+					cc.setP7eme(resultats.get(7));
+					cc.setP8eme(resultats.get(8));
+					cc.setP9eme(resultats.get(9));
+					cc.setP10eme(resultats.get(10));
+					cc.setP11eme(resultats.get(11));
+					cc.setP12eme(resultats.get(12));
+					cc.setP13eme(resultats.get(13));
+					cc.setP14eme(resultats.get(14));
+					cc.setP15eme(resultats.get(15));
+				}catch( Exception e2 ){
+					
+				}
+				
+			} catch (DAOException e) {
+				String texte = "Impossible de recuperer les elements de ARRIVEE pour la course "+course.getId()+" : "+e.getMessage();
+				System.err.println(texte);
+				Logger.write(texte);
+				continue;
+			}
+						
 			
 			//////////////////////////////
 			// Info partant
@@ -275,13 +316,17 @@ public class Refactorer {
 				if( partantsListe.size() != 0 ){
 					// on fait le tour de tout les partant de cette course
 					for( Partant unPart : partantsListe ){
-						// si le num�ro du cheval en cours est celui du 1er favoris
+						// si le numero du cheval en cours est celui du 1er favoris
 						if( unPart.getNumCheval() == cc.getNumeroPremierFavori() ){
 							cc.setMusiquePremier(unPart.getMusique());
 							//cc.setAgeSexChvlPremier(unPart.getAgeSexe());
 							cc.setNomChvlPremier( unPart.getNomCheval() );
 							//cc.setGainsPremier(unPart.getGains());
 							//break;
+						}
+						
+						if( unPart.getNumCheval().equals( cc.getP1er() ) ){
+							cc.setGainChvlPremier(unPart.getiGains());
 						}
 						
 						// min et max age
@@ -323,13 +368,15 @@ public class Refactorer {
 				partantsListe = null;
 				
 			} catch (DAOException e) {
-				String texte = "Impossible de r�cup�rer les �l�ments de PARTANT pour la course "+course.getId()+" : "+e.getMessage();
+				String texte = "Impossible de recuperer les elements de PARTANT pour la course "+course.getId()+" : "+e.getMessage();
 				System.err.println(texte);
 				Logger.write(texte);
 				continue;
 			}
 			
 			
+			
+
 			
 			
 			///////////////////////////
@@ -357,6 +404,16 @@ public class Refactorer {
 				
 			}
 		}
+	}
+	
+	private static Map<Integer, Integer> getNumFromPlace( List<Arrivee> arrivees ){
+		Map<Integer, Integer> ret = new HashMap<Integer, Integer>();
+		
+		for (Arrivee arrivee : arrivees) {
+			ret.put(arrivee.getNumArrivee(), arrivee.getNumCheval());
+		}
+		
+		return ret;
 	}
 
 }

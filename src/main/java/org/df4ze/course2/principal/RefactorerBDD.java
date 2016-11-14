@@ -24,7 +24,7 @@ public class RefactorerBDD {
 //		String password = "Toulouse31";
 		String host = "127.0.0.1";
 		String user = "root";
-		String password = "";
+		String password = "Banzai31";
 		String base = "courses2_0";
 
 		DAOFactory.setBase(base);

@@ -308,3 +308,860 @@ Reading WEB-20161106213321884-00000-20539~workShop~8461.warc.gz
 2016/11/09 10:38:20	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
 2016/11/09 10:38:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
 2016/11/09 10:38:21	PARTANT : Incorrect integer value: '' for column 'gains' at row 1 --> null
+2016/11/11 10:09:07	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/20161106213317/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/11 10:09:37	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/20161106213317/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/11 10:09:38	
+
+Reading WEB-20161106213321884-00000-20539~workShop~8461.warc.gz
+2016/11/11 10:09:49	PARTANT : Duplicate entry '774348-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 10:11:24	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/20161106213317/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/11 10:11:24	
+
+Reading WEB-20161106213321884-00000-20539~workShop~8461.warc.gz
+2016/11/11 10:11:34	PARTANT : Duplicate entry '774348-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:19:16	RAPPORT : Duplicate entry '774345-2' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:19:16	PARTANT : Duplicate entry '774344-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:19:16	COTE : Duplicate entry '774411-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:19:16	COTE : Duplicate entry '774432-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:19:16	COTE : Duplicate entry '774346-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:19:16	COTE : Duplicate entry '774433-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:19:16	COTE : Duplicate entry '774407-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:19:17	COTE : Duplicate entry '774431-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:19:17	COTE : Duplicate entry '774430-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:22	RAPPORT : Duplicate entry '774349-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:22	COTE : Duplicate entry '774339-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:22	PARTANT : Duplicate entry '774351-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:36	RAPPORT : Duplicate entry '774334-4' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:45	RAPPORT : Duplicate entry '774337-2' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:45	COTE : Duplicate entry '774351-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:45	COTE : Duplicate entry '774340-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:54	RAPPORT : Duplicate entry '774434-8' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:54	PARTANT : Duplicate entry '774431-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:55	COTE : Duplicate entry '774332-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:21:55	COTE : Duplicate entry '774348-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:30:32	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/20161106213317/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/11 11:30:32	
+
+Reading WEB-20161106213321884-00000-20539~workShop~8461.warc.gz
+2016/11/11 11:42:08	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/20161106213317/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/11 11:42:08	
+
+Reading WEB-20161106213321884-00000-20539~workShop~8461.warc.gz
+2016/11/11 11:42:19	PARTANT : Duplicate entry '774348-1' for key 'paire_cheval_numcourse' --> null
+2016/11/11 11:42:32	RAPPORT : Duplicate entry '774345-2' for key 'paire_cheval_numcourse' --> null
+2016/11/12 12:51:23	
+
+
+Refactorer v2
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/12 11:01:36	
+
+
+Refactorer v2
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/12 11:01:38	Impossible de creer la COURSE COMPLETE pour la course 709100 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:38	Impossible de creer la COURSE COMPLETE pour la course 709101 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:38	Impossible de creer la COURSE COMPLETE pour la course 709102 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:38	Impossible de creer la COURSE COMPLETE pour la course 709103 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:38	Impossible de creer la COURSE COMPLETE pour la course 709152 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:38	Impossible de creer la COURSE COMPLETE pour la course 709153 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:39	Impossible de creer la COURSE COMPLETE pour la course 709154 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:39	Impossible de creer la COURSE COMPLETE pour la course 709155 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:39	Impossible de creer la COURSE COMPLETE pour la course 709156 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:39	Impossible de creer la COURSE COMPLETE pour la course 709157 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:39	Impossible de creer la COURSE COMPLETE pour la course 709158 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:39	Impossible de creer la COURSE COMPLETE pour la course 709159 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:39	Impossible de creer la COURSE COMPLETE pour la course 709160 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:40	Impossible de creer la COURSE COMPLETE pour la course 709162 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:40	Impossible de creer la COURSE COMPLETE pour la course 709163 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:40	Impossible de creer la COURSE COMPLETE pour la course 709164 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:40	Impossible de creer la COURSE COMPLETE pour la course 709166 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:40	Impossible de creer la COURSE COMPLETE pour la course 709167 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:40	Impossible de creer la COURSE COMPLETE pour la course 709168 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:40	Impossible de creer la COURSE COMPLETE pour la course 709202 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:40	Impossible de creer la COURSE COMPLETE pour la course 709203 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:40	Impossible de creer la COURSE COMPLETE pour la course 709204 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:41	Impossible de creer la COURSE COMPLETE pour la course 709205 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:41	Impossible de creer la COURSE COMPLETE pour la course 709222 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:41	Impossible de creer la COURSE COMPLETE pour la course 709223 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:41	Impossible de creer la COURSE COMPLETE pour la course 709224 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:41	Impossible de creer la COURSE COMPLETE pour la course 709225 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:41	Impossible de creer la COURSE COMPLETE pour la course 709226 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:41	Impossible de creer la COURSE COMPLETE pour la course 709227 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:41	Impossible de creer la COURSE COMPLETE pour la course 709228 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:41	Impossible de creer la COURSE COMPLETE pour la course 709229 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:41	Impossible de creer la COURSE COMPLETE pour la course 709230 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:42	Impossible de creer la COURSE COMPLETE pour la course 709231 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:42	Impossible de creer la COURSE COMPLETE pour la course 709232 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:42	Impossible de creer la COURSE COMPLETE pour la course 709233 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:42	Impossible de creer la COURSE COMPLETE pour la course 709234 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:42	Impossible de creer la COURSE COMPLETE pour la course 709235 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:42	Impossible de creer la COURSE COMPLETE pour la course 709236 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:42	Impossible de creer la COURSE COMPLETE pour la course 709237 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:42	Impossible de creer la COURSE COMPLETE pour la course 709654 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:42	Impossible de creer la COURSE COMPLETE pour la course 709772 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709773 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709774 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709775 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709776 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709777 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709778 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709779 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709956 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709957 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709958 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:43	Impossible de creer la COURSE COMPLETE pour la course 709959 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:44	Impossible de creer la COURSE COMPLETE pour la course 709973 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:44	Impossible de creer la COURSE COMPLETE pour la course 709974 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:44	Impossible de creer la COURSE COMPLETE pour la course 709975 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:44	Impossible de creer la COURSE COMPLETE pour la course 709976 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:44	Impossible de creer la COURSE COMPLETE pour la course 709977 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:44	Impossible de creer la COURSE COMPLETE pour la course 709978 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:44	Impossible de creer la COURSE COMPLETE pour la course 709979 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:44	Impossible de creer la COURSE COMPLETE pour la course 709980 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:44	Impossible de creer la COURSE COMPLETE pour la course 710038 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:44	Impossible de creer la COURSE COMPLETE pour la course 710039 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:45	Impossible de creer la COURSE COMPLETE pour la course 710040 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:45	Impossible de creer la COURSE COMPLETE pour la course 710041 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:45	Impossible de creer la COURSE COMPLETE pour la course 710042 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:45	Impossible de creer la COURSE COMPLETE pour la course 710043 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:45	Impossible de creer la COURSE COMPLETE pour la course 710044 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:45	Impossible de creer la COURSE COMPLETE pour la course 710045 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:45	Impossible de creer la COURSE COMPLETE pour la course 710046 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:45	Impossible de creer la COURSE COMPLETE pour la course 710047 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:45	Impossible de creer la COURSE COMPLETE pour la course 710048 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:45	Impossible de creer la COURSE COMPLETE pour la course 710063 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:46	Impossible de creer la COURSE COMPLETE pour la course 710064 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:46	Impossible de creer la COURSE COMPLETE pour la course 710065 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:46	Impossible de creer la COURSE COMPLETE pour la course 710067 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:46	Impossible de creer la COURSE COMPLETE pour la course 710068 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:46	Impossible de creer la COURSE COMPLETE pour la course 710086 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:46	Impossible de creer la COURSE COMPLETE pour la course 710089 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:46	Impossible de creer la COURSE COMPLETE pour la course 710091 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:46	Impossible de creer la COURSE COMPLETE pour la course 710092 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:46	Impossible de creer la COURSE COMPLETE pour la course 710219 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:46	Impossible de creer la COURSE COMPLETE pour la course 710220 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:47	Impossible de creer la COURSE COMPLETE pour la course 710221 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:47	Impossible de creer la COURSE COMPLETE pour la course 710223 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:47	Impossible de creer la COURSE COMPLETE pour la course 710224 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:47	Impossible de creer la COURSE COMPLETE pour la course 710225 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:47	Impossible de creer la COURSE COMPLETE pour la course 710226 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:47	Impossible de creer la COURSE COMPLETE pour la course 710293 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:47	Impossible de creer la COURSE COMPLETE pour la course 710294 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:47	Impossible de creer la COURSE COMPLETE pour la course 710295 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:47	Impossible de creer la COURSE COMPLETE pour la course 710296 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:48	Impossible de creer la COURSE COMPLETE pour la course 710459 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:48	Impossible de creer la COURSE COMPLETE pour la course 710460 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:48	Impossible de creer la COURSE COMPLETE pour la course 710517 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:48	Impossible de creer la COURSE COMPLETE pour la course 710518 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:48	Impossible de creer la COURSE COMPLETE pour la course 710519 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:48	Impossible de creer la COURSE COMPLETE pour la course 710520 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:48	Impossible de creer la COURSE COMPLETE pour la course 710521 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:48	Impossible de creer la COURSE COMPLETE pour la course 710522 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:48	Impossible de creer la COURSE COMPLETE pour la course 710523 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:48	Impossible de creer la COURSE COMPLETE pour la course 710524 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:49	Impossible de creer la COURSE COMPLETE pour la course 710641 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:49	Impossible de creer la COURSE COMPLETE pour la course 710643 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:49	Impossible de creer la COURSE COMPLETE pour la course 710644 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:49	Impossible de creer la COURSE COMPLETE pour la course 710645 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:49	Impossible de creer la COURSE COMPLETE pour la course 710646 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:49	Impossible de creer la COURSE COMPLETE pour la course 710647 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:49	Impossible de creer la COURSE COMPLETE pour la course 710729 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:49	Impossible de creer la COURSE COMPLETE pour la course 710730 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:49	Impossible de creer la COURSE COMPLETE pour la course 710731 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:50	Impossible de creer la COURSE COMPLETE pour la course 710732 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:50	Impossible de creer la COURSE COMPLETE pour la course 710733 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:50	Impossible de creer la COURSE COMPLETE pour la course 710734 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:50	Impossible de creer la COURSE COMPLETE pour la course 710735 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:50	Impossible de creer la COURSE COMPLETE pour la course 710736 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:50	Impossible de creer la COURSE COMPLETE pour la course 710738 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:50	Impossible de creer la COURSE COMPLETE pour la course 710740 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:50	Impossible de creer la COURSE COMPLETE pour la course 710742 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:50	Impossible de creer la COURSE COMPLETE pour la course 710753 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:51	Impossible de creer la COURSE COMPLETE pour la course 710754 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:51	Impossible de creer la COURSE COMPLETE pour la course 710756 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:51	Impossible de creer la COURSE COMPLETE pour la course 710757 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:51	Impossible de creer la COURSE COMPLETE pour la course 710758 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:51	Impossible de creer la COURSE COMPLETE pour la course 710759 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:51	Impossible de creer la COURSE COMPLETE pour la course 710760 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:51	Impossible de creer la COURSE COMPLETE pour la course 711266 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:51	Impossible de creer la COURSE COMPLETE pour la course 711267 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:51	Impossible de creer la COURSE COMPLETE pour la course 711268 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:52	Impossible de creer la COURSE COMPLETE pour la course 711269 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:52	Impossible de creer la COURSE COMPLETE pour la course 711270 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:52	Impossible de creer la COURSE COMPLETE pour la course 711271 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:52	Impossible de creer la COURSE COMPLETE pour la course 711273 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:52	Impossible de creer la COURSE COMPLETE pour la course 711274 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:52	Impossible de creer la COURSE COMPLETE pour la course 711275 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:52	Impossible de creer la COURSE COMPLETE pour la course 711276 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:52	Impossible de creer la COURSE COMPLETE pour la course 711277 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:52	Impossible de creer la COURSE COMPLETE pour la course 711278 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:52	Impossible de creer la COURSE COMPLETE pour la course 711279 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:53	Impossible de creer la COURSE COMPLETE pour la course 711280 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:53	Impossible de creer la COURSE COMPLETE pour la course 711281 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:53	Impossible de creer la COURSE COMPLETE pour la course 711333 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:53	Impossible de creer la COURSE COMPLETE pour la course 711334 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:53	Impossible de creer la COURSE COMPLETE pour la course 711336 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:53	Impossible de creer la COURSE COMPLETE pour la course 711361 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:53	Impossible de creer la COURSE COMPLETE pour la course 711363 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:53	Impossible de creer la COURSE COMPLETE pour la course 711848 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:53	Impossible de creer la COURSE COMPLETE pour la course 711849 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:53	Impossible de creer la COURSE COMPLETE pour la course 711850 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:54	Impossible de creer la COURSE COMPLETE pour la course 711852 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:54	Impossible de creer la COURSE COMPLETE pour la course 711854 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:54	Impossible de creer la COURSE COMPLETE pour la course 711855 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:54	Impossible de creer la COURSE COMPLETE pour la course 711875 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:54	Impossible de creer la COURSE COMPLETE pour la course 711876 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:54	Impossible de creer la COURSE COMPLETE pour la course 711877 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:54	Impossible de creer la COURSE COMPLETE pour la course 711878 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:54	Impossible de creer la COURSE COMPLETE pour la course 711879 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:54	Impossible de creer la COURSE COMPLETE pour la course 711880 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:55	Impossible de creer la COURSE COMPLETE pour la course 711881 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:55	Impossible de creer la COURSE COMPLETE pour la course 711882 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:55	Impossible de creer la COURSE COMPLETE pour la course 712047 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:55	Impossible de creer la COURSE COMPLETE pour la course 712133 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:55	Impossible de creer la COURSE COMPLETE pour la course 712134 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:55	Impossible de creer la COURSE COMPLETE pour la course 712135 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:55	Impossible de creer la COURSE COMPLETE pour la course 712136 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:55	Impossible de creer la COURSE COMPLETE pour la course 712137 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:55	Impossible de creer la COURSE COMPLETE pour la course 712138 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:56	Impossible de creer la COURSE COMPLETE pour la course 712139 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:56	Impossible de creer la COURSE COMPLETE pour la course 712140 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:56	Impossible de creer la COURSE COMPLETE pour la course 712141 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:56	Impossible de creer la COURSE COMPLETE pour la course 712142 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:56	Impossible de creer la COURSE COMPLETE pour la course 712143 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:56	Impossible de creer la COURSE COMPLETE pour la course 712144 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:56	Impossible de creer la COURSE COMPLETE pour la course 712145 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:56	Impossible de creer la COURSE COMPLETE pour la course 712146 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:56	Impossible de creer la COURSE COMPLETE pour la course 712147 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:56	Impossible de creer la COURSE COMPLETE pour la course 712148 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:57	Impossible de creer la COURSE COMPLETE pour la course 712149 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:57	Impossible de creer la COURSE COMPLETE pour la course 712160 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:57	Impossible de creer la COURSE COMPLETE pour la course 712161 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:57	Impossible de creer la COURSE COMPLETE pour la course 712162 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:57	Impossible de creer la COURSE COMPLETE pour la course 712163 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:57	Impossible de creer la COURSE COMPLETE pour la course 712210 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:57	Impossible de creer la COURSE COMPLETE pour la course 712212 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:57	Impossible de creer la COURSE COMPLETE pour la course 712214 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:57	Impossible de creer la COURSE COMPLETE pour la course 712216 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:57	Impossible de creer la COURSE COMPLETE pour la course 712257 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:58	Impossible de creer la COURSE COMPLETE pour la course 712258 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:58	Impossible de creer la COURSE COMPLETE pour la course 712259 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:58	Impossible de creer la COURSE COMPLETE pour la course 712260 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:58	Impossible de creer la COURSE COMPLETE pour la course 712261 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:58	Impossible de creer la COURSE COMPLETE pour la course 712262 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:58	Impossible de creer la COURSE COMPLETE pour la course 712265 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:58	Impossible de creer la COURSE COMPLETE pour la course 712268 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:58	Impossible de creer la COURSE COMPLETE pour la course 712271 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:58	Impossible de creer la COURSE COMPLETE pour la course 712274 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:58	Impossible de creer la COURSE COMPLETE pour la course 712275 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:59	Impossible de creer la COURSE COMPLETE pour la course 712276 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:59	Impossible de creer la COURSE COMPLETE pour la course 712277 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:59	Impossible de creer la COURSE COMPLETE pour la course 712278 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:59	Impossible de creer la COURSE COMPLETE pour la course 712279 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:59	Impossible de creer la COURSE COMPLETE pour la course 712304 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:59	Impossible de creer la COURSE COMPLETE pour la course 712305 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:59	Impossible de creer la COURSE COMPLETE pour la course 712306 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:59	Impossible de creer la COURSE COMPLETE pour la course 712307 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:59	Impossible de creer la COURSE COMPLETE pour la course 712308 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:01:59	Impossible de creer la COURSE COMPLETE pour la course 712309 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:00	Impossible de creer la COURSE COMPLETE pour la course 712310 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:00	Impossible de creer la COURSE COMPLETE pour la course 712311 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:00	Impossible de creer la COURSE COMPLETE pour la course 712312 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:00	Impossible de creer la COURSE COMPLETE pour la course 712313 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:00	Impossible de creer la COURSE COMPLETE pour la course 712317 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:00	Impossible de creer la COURSE COMPLETE pour la course 712318 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:00	Impossible de creer la COURSE COMPLETE pour la course 712324 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:00	Impossible de creer la COURSE COMPLETE pour la course 712325 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:00	Impossible de creer la COURSE COMPLETE pour la course 712390 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:01	Impossible de creer la COURSE COMPLETE pour la course 712391 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:01	Impossible de creer la COURSE COMPLETE pour la course 712392 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:01	Impossible de creer la COURSE COMPLETE pour la course 712393 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:01	Impossible de creer la COURSE COMPLETE pour la course 712394 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:01	Impossible de creer la COURSE COMPLETE pour la course 712395 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:01	Impossible de creer la COURSE COMPLETE pour la course 712490 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:01	Impossible de creer la COURSE COMPLETE pour la course 712491 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:01	Impossible de creer la COURSE COMPLETE pour la course 712492 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:01	Impossible de creer la COURSE COMPLETE pour la course 712493 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:01	Impossible de creer la COURSE COMPLETE pour la course 712494 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:02	Impossible de creer la COURSE COMPLETE pour la course 712532 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:02	Impossible de creer la COURSE COMPLETE pour la course 712533 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:02	Impossible de creer la COURSE COMPLETE pour la course 712534 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:02	Impossible de creer la COURSE COMPLETE pour la course 712535 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:02	Impossible de creer la COURSE COMPLETE pour la course 712536 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:02	Impossible de creer la COURSE COMPLETE pour la course 712537 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:02	Impossible de creer la COURSE COMPLETE pour la course 712610 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:02	Impossible de creer la COURSE COMPLETE pour la course 712611 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:02	Impossible de creer la COURSE COMPLETE pour la course 712612 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:02	Impossible de creer la COURSE COMPLETE pour la course 712613 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:03	Impossible de creer la COURSE COMPLETE pour la course 712614 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:03	Impossible de creer la COURSE COMPLETE pour la course 712618 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:03	Impossible de creer la COURSE COMPLETE pour la course 712810 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:03	Impossible de creer la COURSE COMPLETE pour la course 712811 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:03	Impossible de creer la COURSE COMPLETE pour la course 712812 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:03	Impossible de creer la COURSE COMPLETE pour la course 712813 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:03	Impossible de creer la COURSE COMPLETE pour la course 712814 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:03	Impossible de creer la COURSE COMPLETE pour la course 712815 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:03	Impossible de creer la COURSE COMPLETE pour la course 712816 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:04	Impossible de creer la COURSE COMPLETE pour la course 712817 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:04	Impossible de creer la COURSE COMPLETE pour la course 712818 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:04	Impossible de creer la COURSE COMPLETE pour la course 712879 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:04	Impossible de creer la COURSE COMPLETE pour la course 712983 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:04	Impossible de creer la COURSE COMPLETE pour la course 712984 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:04	Impossible de creer la COURSE COMPLETE pour la course 712985 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:04	Impossible de creer la COURSE COMPLETE pour la course 712986 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:04	Impossible de creer la COURSE COMPLETE pour la course 712987 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:04	Impossible de creer la COURSE COMPLETE pour la course 712988 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:04	Impossible de creer la COURSE COMPLETE pour la course 712989 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:05	Impossible de creer la COURSE COMPLETE pour la course 712990 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:05	Impossible de creer la COURSE COMPLETE pour la course 712992 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:05	Impossible de creer la COURSE COMPLETE pour la course 712993 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:05	Impossible de creer la COURSE COMPLETE pour la course 712995 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:05	Impossible de creer la COURSE COMPLETE pour la course 712997 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:05	Impossible de creer la COURSE COMPLETE pour la course 712998 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:05	Impossible de creer la COURSE COMPLETE pour la course 712999 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:05	Impossible de creer la COURSE COMPLETE pour la course 713001 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:05	Impossible de creer la COURSE COMPLETE pour la course 713002 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:05	Impossible de creer la COURSE COMPLETE pour la course 713003 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713004 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713005 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713006 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713007 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713008 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713009 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713010 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713011 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713291 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713294 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:06	Impossible de creer la COURSE COMPLETE pour la course 713295 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:07	Impossible de creer la COURSE COMPLETE pour la course 713296 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:07	Impossible de creer la COURSE COMPLETE pour la course 713453 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:07	Impossible de creer la COURSE COMPLETE pour la course 713454 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:07	Impossible de creer la COURSE COMPLETE pour la course 713455 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:07	Impossible de creer la COURSE COMPLETE pour la course 713457 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:07	Impossible de creer la COURSE COMPLETE pour la course 713459 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:07	Impossible de creer la COURSE COMPLETE pour la course 713460 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:07	Impossible de creer la COURSE COMPLETE pour la course 713513 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:07	Impossible de creer la COURSE COMPLETE pour la course 713514 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:07	Impossible de creer la COURSE COMPLETE pour la course 713515 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:08	Impossible de creer la COURSE COMPLETE pour la course 713516 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:08	Impossible de creer la COURSE COMPLETE pour la course 713517 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:08	Impossible de creer la COURSE COMPLETE pour la course 713518 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:08	Impossible de creer la COURSE COMPLETE pour la course 713519 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:08	Impossible de creer la COURSE COMPLETE pour la course 713520 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:08	Impossible de creer la COURSE COMPLETE pour la course 713757 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:08	Impossible de creer la COURSE COMPLETE pour la course 713758 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:08	Impossible de creer la COURSE COMPLETE pour la course 713759 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:08	Impossible de creer la COURSE COMPLETE pour la course 713760 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:08	Impossible de creer la COURSE COMPLETE pour la course 713838 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:09	Impossible de creer la COURSE COMPLETE pour la course 713841 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:09	Impossible de creer la COURSE COMPLETE pour la course 713844 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:09	Impossible de creer la COURSE COMPLETE pour la course 713905 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:09	Impossible de creer la COURSE COMPLETE pour la course 713906 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:09	Impossible de creer la COURSE COMPLETE pour la course 713907 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:09	Impossible de creer la COURSE COMPLETE pour la course 713908 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:09	Impossible de creer la COURSE COMPLETE pour la course 713909 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:09	Impossible de creer la COURSE COMPLETE pour la course 713910 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:09	Impossible de creer la COURSE COMPLETE pour la course 713911 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:10	Impossible de creer la COURSE COMPLETE pour la course 713912 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:10	Impossible de creer la COURSE COMPLETE pour la course 713913 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:10	Impossible de creer la COURSE COMPLETE pour la course 713914 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:10	Impossible de creer la COURSE COMPLETE pour la course 713971 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:10	Impossible de creer la COURSE COMPLETE pour la course 713972 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:10	Impossible de creer la COURSE COMPLETE pour la course 713973 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:10	Impossible de creer la COURSE COMPLETE pour la course 713974 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:10	Impossible de creer la COURSE COMPLETE pour la course 713975 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:10	Impossible de creer la COURSE COMPLETE pour la course 714114 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:11	Impossible de creer la COURSE COMPLETE pour la course 714116 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:11	Impossible de creer la COURSE COMPLETE pour la course 714118 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:11	Impossible de creer la COURSE COMPLETE pour la course 714119 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:11	Impossible de creer la COURSE COMPLETE pour la course 714143 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:11	Impossible de creer la COURSE COMPLETE pour la course 714144 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:11	Impossible de creer la COURSE COMPLETE pour la course 714145 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:11	Impossible de creer la COURSE COMPLETE pour la course 714146 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:11	Impossible de creer la COURSE COMPLETE pour la course 714147 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:11	Impossible de creer la COURSE COMPLETE pour la course 714148 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:11	Impossible de creer la COURSE COMPLETE pour la course 714149 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:12	Impossible de creer la COURSE COMPLETE pour la course 714150 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:12	Impossible de creer la COURSE COMPLETE pour la course 714175 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:12	Impossible de creer la COURSE COMPLETE pour la course 714176 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:12	Impossible de creer la COURSE COMPLETE pour la course 714177 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:12	Impossible de creer la COURSE COMPLETE pour la course 714178 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:12	Impossible de creer la COURSE COMPLETE pour la course 714179 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:12	Impossible de creer la COURSE COMPLETE pour la course 714180 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:12	Impossible de creer la COURSE COMPLETE pour la course 714181 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:13	Impossible de creer la COURSE COMPLETE pour la course 714182 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:13	Impossible de creer la COURSE COMPLETE pour la course 714277 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:13	Impossible de creer la COURSE COMPLETE pour la course 714278 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:13	Impossible de creer la COURSE COMPLETE pour la course 714279 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:13	Impossible de creer la COURSE COMPLETE pour la course 714280 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:13	Impossible de creer la COURSE COMPLETE pour la course 714281 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:13	Impossible de creer la COURSE COMPLETE pour la course 714282 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:13	Impossible de creer la COURSE COMPLETE pour la course 714328 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:13	Impossible de creer la COURSE COMPLETE pour la course 714329 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:14	Impossible de creer la COURSE COMPLETE pour la course 714330 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:14	Impossible de creer la COURSE COMPLETE pour la course 714331 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:14	Impossible de creer la COURSE COMPLETE pour la course 714332 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:14	Impossible de creer la COURSE COMPLETE pour la course 714333 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:14	Impossible de creer la COURSE COMPLETE pour la course 714390 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:14	Impossible de creer la COURSE COMPLETE pour la course 714391 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:14	Impossible de creer la COURSE COMPLETE pour la course 714583 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:14	Impossible de creer la COURSE COMPLETE pour la course 714584 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:14	Impossible de creer la COURSE COMPLETE pour la course 714585 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:14	Impossible de creer la COURSE COMPLETE pour la course 714586 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:15	Impossible de creer la COURSE COMPLETE pour la course 714587 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:15	Impossible de creer la COURSE COMPLETE pour la course 714588 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:15	Impossible de creer la COURSE COMPLETE pour la course 714591 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:15	Impossible de creer la COURSE COMPLETE pour la course 714592 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:15	Impossible de creer la COURSE COMPLETE pour la course 714593 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:15	Impossible de creer la COURSE COMPLETE pour la course 714594 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:15	Impossible de creer la COURSE COMPLETE pour la course 714595 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:15	Impossible de creer la COURSE COMPLETE pour la course 714596 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:15	Impossible de creer la COURSE COMPLETE pour la course 714597 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:15	Impossible de creer la COURSE COMPLETE pour la course 714598 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:16	Impossible de creer la COURSE COMPLETE pour la course 714724 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:16	Impossible de creer la COURSE COMPLETE pour la course 714727 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:16	Impossible de creer la COURSE COMPLETE pour la course 714731 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:16	Impossible de creer la COURSE COMPLETE pour la course 714732 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:16	Impossible de creer la COURSE COMPLETE pour la course 714733 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:16	Impossible de creer la COURSE COMPLETE pour la course 714734 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:16	Impossible de creer la COURSE COMPLETE pour la course 714735 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:16	Impossible de creer la COURSE COMPLETE pour la course 714736 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:16	Impossible de creer la COURSE COMPLETE pour la course 714737 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:16	Impossible de creer la COURSE COMPLETE pour la course 714738 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:17	Impossible de creer la COURSE COMPLETE pour la course 714868 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:17	Impossible de creer la COURSE COMPLETE pour la course 714869 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:17	Impossible de creer la COURSE COMPLETE pour la course 714870 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:17	Impossible de creer la COURSE COMPLETE pour la course 714871 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:17	Impossible de creer la COURSE COMPLETE pour la course 714872 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:17	Impossible de creer la COURSE COMPLETE pour la course 714873 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:17	Impossible de creer la COURSE COMPLETE pour la course 714874 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:17	Impossible de creer la COURSE COMPLETE pour la course 714875 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:17	Impossible de creer la COURSE COMPLETE pour la course 714876 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:18	Impossible de creer la COURSE COMPLETE pour la course 714877 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:18	Impossible de creer la COURSE COMPLETE pour la course 714878 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:18	Impossible de creer la COURSE COMPLETE pour la course 714879 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:18	Impossible de creer la COURSE COMPLETE pour la course 714880 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:18	Impossible de creer la COURSE COMPLETE pour la course 714881 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:18	Impossible de creer la COURSE COMPLETE pour la course 714882 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:18	Impossible de creer la COURSE COMPLETE pour la course 714883 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:18	Impossible de creer la COURSE COMPLETE pour la course 714940 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:18	Impossible de creer la COURSE COMPLETE pour la course 714941 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:18	Impossible de creer la COURSE COMPLETE pour la course 714942 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:19	Impossible de creer la COURSE COMPLETE pour la course 714943 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:19	Impossible de creer la COURSE COMPLETE pour la course 714944 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:19	Impossible de creer la COURSE COMPLETE pour la course 714945 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:19	Impossible de creer la COURSE COMPLETE pour la course 714946 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:19	Impossible de creer la COURSE COMPLETE pour la course 714947 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:19	Impossible de creer la COURSE COMPLETE pour la course 714948 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:19	Impossible de creer la COURSE COMPLETE pour la course 714977 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:19	Impossible de creer la COURSE COMPLETE pour la course 714980 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:19	Impossible de creer la COURSE COMPLETE pour la course 714981 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:20	Impossible de creer la COURSE COMPLETE pour la course 714982 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:20	Impossible de creer la COURSE COMPLETE pour la course 714983 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:20	Impossible de creer la COURSE COMPLETE pour la course 714984 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:20	Impossible de creer la COURSE COMPLETE pour la course 714985 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:20	Impossible de creer la COURSE COMPLETE pour la course 715275 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:20	Impossible de creer la COURSE COMPLETE pour la course 715277 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:20	Impossible de creer la COURSE COMPLETE pour la course 715279 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:20	Impossible de creer la COURSE COMPLETE pour la course 715387 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:20	Impossible de creer la COURSE COMPLETE pour la course 715388 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:20	Impossible de creer la COURSE COMPLETE pour la course 715389 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:21	Impossible de creer la COURSE COMPLETE pour la course 715390 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:21	Impossible de creer la COURSE COMPLETE pour la course 715638 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:21	Impossible de creer la COURSE COMPLETE pour la course 715639 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:21	Impossible de creer la COURSE COMPLETE pour la course 715640 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:21	Impossible de creer la COURSE COMPLETE pour la course 715641 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:21	Impossible de creer la COURSE COMPLETE pour la course 715642 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:21	Impossible de creer la COURSE COMPLETE pour la course 715643 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:21	Impossible de creer la COURSE COMPLETE pour la course 715644 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:21	Impossible de creer la COURSE COMPLETE pour la course 715754 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:22	Impossible de creer la COURSE COMPLETE pour la course 715755 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:22	Impossible de creer la COURSE COMPLETE pour la course 715756 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:22	Impossible de creer la COURSE COMPLETE pour la course 715757 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:22	Impossible de creer la COURSE COMPLETE pour la course 715838 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:22	Impossible de creer la COURSE COMPLETE pour la course 715839 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:22	Impossible de creer la COURSE COMPLETE pour la course 715840 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:22	Impossible de creer la COURSE COMPLETE pour la course 715841 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:22	Impossible de creer la COURSE COMPLETE pour la course 715842 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:22	Impossible de creer la COURSE COMPLETE pour la course 715843 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:22	Impossible de creer la COURSE COMPLETE pour la course 715844 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:23	Impossible de creer la COURSE COMPLETE pour la course 715866 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:23	Impossible de creer la COURSE COMPLETE pour la course 715867 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:23	Impossible de creer la COURSE COMPLETE pour la course 715868 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:23	Impossible de creer la COURSE COMPLETE pour la course 715869 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:23	Impossible de creer la COURSE COMPLETE pour la course 715870 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:23	Impossible de creer la COURSE COMPLETE pour la course 715871 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:23	Impossible de creer la COURSE COMPLETE pour la course 715872 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:23	Impossible de creer la COURSE COMPLETE pour la course 715873 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:23	Impossible de creer la COURSE COMPLETE pour la course 715999 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:23	Impossible de creer la COURSE COMPLETE pour la course 716200 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:24	Impossible de creer la COURSE COMPLETE pour la course 716201 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:24	Impossible de creer la COURSE COMPLETE pour la course 716202 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:24	Impossible de creer la COURSE COMPLETE pour la course 716203 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:24	Impossible de creer la COURSE COMPLETE pour la course 716204 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:24	Impossible de creer la COURSE COMPLETE pour la course 716206 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:24	Impossible de creer la COURSE COMPLETE pour la course 716207 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:24	Impossible de creer la COURSE COMPLETE pour la course 716208 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:24	Impossible de creer la COURSE COMPLETE pour la course 716217 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:24	Impossible de creer la COURSE COMPLETE pour la course 716218 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:24	Impossible de creer la COURSE COMPLETE pour la course 716219 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:25	Impossible de creer la COURSE COMPLETE pour la course 716220 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:25	Impossible de creer la COURSE COMPLETE pour la course 716221 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:25	Impossible de creer la COURSE COMPLETE pour la course 716222 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:02:25	Impossible de creer la COURSE COMPLETE pour la course 716223 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:26	
+
+
+Refactorer v2
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/12 11:03:27	Impossible de creer la COURSE COMPLETE pour la course 709100 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:28	Impossible de creer la COURSE COMPLETE pour la course 709101 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:28	Impossible de creer la COURSE COMPLETE pour la course 709102 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:28	Impossible de creer la COURSE COMPLETE pour la course 709103 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:28	Impossible de creer la COURSE COMPLETE pour la course 709152 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:28	Impossible de creer la COURSE COMPLETE pour la course 709153 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:28	Impossible de creer la COURSE COMPLETE pour la course 709154 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:28	Impossible de creer la COURSE COMPLETE pour la course 709155 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:28	Impossible de creer la COURSE COMPLETE pour la course 709156 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:29	Impossible de creer la COURSE COMPLETE pour la course 709157 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:29	Impossible de creer la COURSE COMPLETE pour la course 709158 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:29	Impossible de creer la COURSE COMPLETE pour la course 709159 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:29	Impossible de creer la COURSE COMPLETE pour la course 709160 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:29	Impossible de creer la COURSE COMPLETE pour la course 709162 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:29	Impossible de creer la COURSE COMPLETE pour la course 709163 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:29	Impossible de creer la COURSE COMPLETE pour la course 709164 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:29	Impossible de creer la COURSE COMPLETE pour la course 709166 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:29	Impossible de creer la COURSE COMPLETE pour la course 709167 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:30	Impossible de creer la COURSE COMPLETE pour la course 709168 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:30	Impossible de creer la COURSE COMPLETE pour la course 709202 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:30	Impossible de creer la COURSE COMPLETE pour la course 709203 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:30	Impossible de creer la COURSE COMPLETE pour la course 709204 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:30	Impossible de creer la COURSE COMPLETE pour la course 709205 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:30	Impossible de creer la COURSE COMPLETE pour la course 709222 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:30	Impossible de creer la COURSE COMPLETE pour la course 709223 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:30	Impossible de creer la COURSE COMPLETE pour la course 709224 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:30	Impossible de creer la COURSE COMPLETE pour la course 709225 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:31	Impossible de creer la COURSE COMPLETE pour la course 709226 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:31	Impossible de creer la COURSE COMPLETE pour la course 709227 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:31	Impossible de creer la COURSE COMPLETE pour la course 709228 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:31	Impossible de creer la COURSE COMPLETE pour la course 709229 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:31	Impossible de creer la COURSE COMPLETE pour la course 709230 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:31	Impossible de creer la COURSE COMPLETE pour la course 709231 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:31	Impossible de creer la COURSE COMPLETE pour la course 709232 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:31	Impossible de creer la COURSE COMPLETE pour la course 709233 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:31	Impossible de creer la COURSE COMPLETE pour la course 709234 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:31	Impossible de creer la COURSE COMPLETE pour la course 709235 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:32	Impossible de creer la COURSE COMPLETE pour la course 709236 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:32	Impossible de creer la COURSE COMPLETE pour la course 709237 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:32	Impossible de creer la COURSE COMPLETE pour la course 709654 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:32	Impossible de creer la COURSE COMPLETE pour la course 709772 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:32	Impossible de creer la COURSE COMPLETE pour la course 709773 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:32	Impossible de creer la COURSE COMPLETE pour la course 709774 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:32	Impossible de creer la COURSE COMPLETE pour la course 709775 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:32	Impossible de creer la COURSE COMPLETE pour la course 709776 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:32	Impossible de creer la COURSE COMPLETE pour la course 709777 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:33	Impossible de creer la COURSE COMPLETE pour la course 709778 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:33	Impossible de creer la COURSE COMPLETE pour la course 709779 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:33	Impossible de creer la COURSE COMPLETE pour la course 709956 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:33	Impossible de creer la COURSE COMPLETE pour la course 709957 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:33	Impossible de creer la COURSE COMPLETE pour la course 709958 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:33	Impossible de creer la COURSE COMPLETE pour la course 709959 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:33	Impossible de creer la COURSE COMPLETE pour la course 709973 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:33	Impossible de creer la COURSE COMPLETE pour la course 709974 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:33	Impossible de creer la COURSE COMPLETE pour la course 709975 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:34	Impossible de creer la COURSE COMPLETE pour la course 709976 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:34	Impossible de creer la COURSE COMPLETE pour la course 709977 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:34	Impossible de creer la COURSE COMPLETE pour la course 709978 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:34	Impossible de creer la COURSE COMPLETE pour la course 709979 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:34	Impossible de creer la COURSE COMPLETE pour la course 709980 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:34	Impossible de creer la COURSE COMPLETE pour la course 710038 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:34	Impossible de creer la COURSE COMPLETE pour la course 710039 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:34	Impossible de creer la COURSE COMPLETE pour la course 710040 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:35	Impossible de creer la COURSE COMPLETE pour la course 710041 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:35	Impossible de creer la COURSE COMPLETE pour la course 710042 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:35	Impossible de creer la COURSE COMPLETE pour la course 710043 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:35	Impossible de creer la COURSE COMPLETE pour la course 710044 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:35	Impossible de creer la COURSE COMPLETE pour la course 710045 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:35	Impossible de creer la COURSE COMPLETE pour la course 710046 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:35	Impossible de creer la COURSE COMPLETE pour la course 710047 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:35	Impossible de creer la COURSE COMPLETE pour la course 710048 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:35	Impossible de creer la COURSE COMPLETE pour la course 710063 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:35	Impossible de creer la COURSE COMPLETE pour la course 710064 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:36	Impossible de creer la COURSE COMPLETE pour la course 710065 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:36	Impossible de creer la COURSE COMPLETE pour la course 710067 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:36	Impossible de creer la COURSE COMPLETE pour la course 710068 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:36	Impossible de creer la COURSE COMPLETE pour la course 710086 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:36	Impossible de creer la COURSE COMPLETE pour la course 710089 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:36	Impossible de creer la COURSE COMPLETE pour la course 710091 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:36	Impossible de creer la COURSE COMPLETE pour la course 710092 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:36	Impossible de creer la COURSE COMPLETE pour la course 710219 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:36	Impossible de creer la COURSE COMPLETE pour la course 710220 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:37	Impossible de creer la COURSE COMPLETE pour la course 710221 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:37	Impossible de creer la COURSE COMPLETE pour la course 710223 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:37	Impossible de creer la COURSE COMPLETE pour la course 710224 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:37	Impossible de creer la COURSE COMPLETE pour la course 710225 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:37	Impossible de creer la COURSE COMPLETE pour la course 710226 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:37	Impossible de creer la COURSE COMPLETE pour la course 710293 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:37	Impossible de creer la COURSE COMPLETE pour la course 710294 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:37	Impossible de creer la COURSE COMPLETE pour la course 710295 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:37	Impossible de creer la COURSE COMPLETE pour la course 710296 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:03:37	Impossible de creer la COURSE COMPLETE pour la course 710459 : Erreur d'insertion : Field 'gains_chv_premier' doesn't have a default value
+2016/11/12 11:04:50	
+
+
+Refactorer v2
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/12 11:26:00	
+
+
+Refactorer v2
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/12 11:26:05	====================
+Job is done
+================
+
+2016/11/12 11:26:27	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/20161106213317/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/12 11:26:27	
+
+Reading WEB-20161106213321884-00000-20539~workShop~8461.warc.gz
+2016/11/12 11:26:52	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:52	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:53	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:54	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:55	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:55	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:56	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:56	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:57	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:58	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:58	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:59	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:59	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:26:59	RAPPORT : Duplicate entry '774351-5' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:26:59	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:27:00	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:27:00	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:27:00	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:09	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/20160110090928/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/12 11:28:09	
+
+Reading WEB-20160110090931820-00000-9076~DF4ze~8461.warc.gz
+2016/11/12 11:28:18	RAPPORT : Duplicate entry '774291-13' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:18	COTE : Duplicate entry '774246-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:18	PARTANT : Duplicate entry '774251-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:18	PARTANT : Duplicate entry '774252-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:18	RAPPORT : Duplicate entry '774240-4' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:19	COTE : Duplicate entry '774295-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:19	COTE : Duplicate entry '774242-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:19	COTE : Duplicate entry '774294-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:19	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:19	PARTANT : Duplicate entry '774298-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:19	RAPPORT : Duplicate entry '774256-9' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:19	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:19	PARTANT : Duplicate entry '774283-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:19	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:19	COTE : Duplicate entry '774290-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:20	COTE : Duplicate entry '774284-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:20	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:20	PARTANT : Duplicate entry '774291-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:20	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:20	PARTANT : Duplicate entry '774249-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:20	PARTANT : Duplicate entry '774297-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:20	RAPPORT : Duplicate entry '774244-8' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:20	RAPPORT : Duplicate entry '774249-7' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:20	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:20	RAPPORT : Duplicate entry '774289-2' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:21	COTE : Duplicate entry '774248-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:21	RAPPORT : Duplicate entry '774285-8' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:21	RAPPORT : Duplicate entry '774242-4' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:21	RAPPORT : Duplicate entry '774245-6' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:21	PARTANT : Duplicate entry '774250-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:21	COTE : Duplicate entry '774297-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:22	RAPPORT : Duplicate entry '774251-12' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:22	PARTANT : Duplicate entry '774254-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:22	PARTANT : Duplicate entry '774284-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:22	COTE : Duplicate entry '774249-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:22	COTE : Duplicate entry '774252-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:22	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:22	RAPPORT : Duplicate entry '774290-2' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:22	PARTANT : Duplicate entry '774255-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:22	COTE : Duplicate entry '774244-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:23	COTE : Duplicate entry '774292-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:23	COTE : Duplicate entry '774289-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:23	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:23	COTE : Duplicate entry '774245-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:23	RAPPORT : Duplicate entry '774288-2' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:23	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:23	PARTANT : Duplicate entry '774287-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:23	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:23	COTE : Duplicate entry '774288-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:23	COTE : Duplicate entry '774287-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:23	COTE : Duplicate entry '774298-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:23	PARTANT : Duplicate entry '774286-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:23	COTE : Duplicate entry '774283-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:24	COTE : Duplicate entry '774259-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:24	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:24	RAPPORT : Duplicate entry '774283-6' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:24	RAPPORT : Duplicate entry '774257-4' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:24	COTE : Duplicate entry '774286-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:24	COTE : Duplicate entry '774258-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:24	COTE : Duplicate entry '774240-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:24	PARTANT : Duplicate entry '774290-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:24	RAPPORT : Duplicate entry '774253-11' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:25	RAPPORT : Duplicate entry '774286-4' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:25	COTE : Duplicate entry '774247-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:25	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:25	COTE : Duplicate entry '774257-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:25	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:25	RAPPORT : Duplicate entry '774294-12' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:25	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:25	COTE : Duplicate entry '774296-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:25	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:25	PARTANT : Incorrect integer value: 'null' for column 'gains' at row 1 --> null
+2016/11/12 11:28:26	COTE : Duplicate entry '774293-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:26	RAPPORT : Duplicate entry '774293-6' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:26	COTE : Duplicate entry '774243-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:26	COTE : Duplicate entry '774254-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:26	COTE : Duplicate entry '774285-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:26	COTE : Duplicate entry '774255-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:26	RAPPORT : Duplicate entry '774250-4' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:27	RAPPORT : Duplicate entry '774247-10' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:27	RAPPORT : Duplicate entry '774298-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:27	PARTANT : Duplicate entry '774288-1' for key 'paire_cheval_numcourse' --> null
+2016/11/12 11:28:27	COTE : Duplicate entry '774251-1' for key 'paire_cheval_numcourse' --> null
+2016/11/13 02:45:31	
+
+
+Indexifier v2
+ - Path WARC : /media/df4ze/01CEC90AE25D62F0/PAARLY/crawl/jobs/geny_com/items/20160110090928/warcs/
+ - mySql host : 127.0.0.1
+ - mySql base : courses2_0
+ - mySql user : root
+
+
+Starting...
+
+
+2016/11/13 02:45:32	
+
+Reading WEB-20160110090931820-00000-9076~DF4ze~8461.warc.gz
